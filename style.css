@@ -1,0 +1,72 @@
+body {
+ background-color: rgb(200, 200, 200);
+ color: rgb(20, 20, 20);
+ font-family: 'Merriweather', serif;
+
+
+}
+
+h1 { 
+ font-size: 50PX;
+ font-family: 'Abril Fatface', cursive;
+
+ }
+
+ul{
+  text-align: left;
+}
+
+.card-white {
+  background-color: white;
+   padding: 40px;
+   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+   border-radius: 4px;
+   margin: 20px 0px;
+   text-align: center;
+
+}
+
+a {
+  text-decoration: none;
+  color: 0176bb;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+a:hover {
+	color: #203c74;
+}
+
+
+
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+
+
+
+.card-white {
+   background-color: white;
+   padding: 40px;
+   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+   border-radius: 4px;
+   margin: 20px 0px;
+  
+   
+}
+
+.img-circle {
+   border-radius: 50%;
+}
+
+.btn-blue {
+  background-color: 0176bb;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+
+
